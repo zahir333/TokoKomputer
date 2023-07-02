@@ -6,11 +6,11 @@ import androidx.room.PrimaryKey
 import kotlinx.parcelize.Parcelize
 
 @Parcelize
-@Entity(tableName = "Komputer_table")
-class Komputer(
+@Entity(tableName = "computer_table")
+class Computer(
     @PrimaryKey(autoGenerate = true)
     val id: Int = 0,
     val name: String,
     val address: String,
-
+    val telephone: String
 ): Parcelable
