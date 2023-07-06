@@ -10,3 +10,7 @@
 6. terdapat menu hapus
 7. terdapat menu ubah
 8. terdapat fitur jika nama,alamat, dan nomer hp kososng maka tidak bisa di simpan
+
+berikut hasil dari run app
+
+<img src = "https://github.com/zahir333/TokoKomputer/blob/main/Screenshot%20(48).png">
