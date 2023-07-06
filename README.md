@@ -14,3 +14,14 @@
 berikut hasil dari run app
 
 <img src = "https://github.com/zahir333/TokoKomputer/blob/main/Screenshot%20(48).png">
+
+<img src = "https://github.com/zahir333/TokoKomputer/blob/main/Screenshot%20(49).png">
+
+<img src = "https://github.com/zahir333/TokoKomputer/blob/main/Screenshot%20(50).png">
+
+<img src = "https://github.com/zahir333/TokoKomputer/blob/main/Screenshot%20(51).png">
+
+<img src = "https://github.com/zahir333/TokoKomputer/blob/main/Screenshot%20(52).png">
+
+<img src = "https://github.com/zahir333/TokoKomputer/blob/main/Screenshot%20(53).png">
+
